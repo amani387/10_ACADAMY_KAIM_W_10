@@ -1,0 +1,33 @@
+# Core Libraries
+pandas
+numpy
+matplotlib
+seaborn
+
+# Time Series Analysis
+statsmodels
+pymc3
+arviz
+scipy
+
+# Machine Learning & Deep Learning
+scikit-learn
+tensorflow
+keras
+
+# Flask (Backend API)
+flask
+flask-cors
+
+# Frontend Development
+react
+recharts
+d3.js
+
+# API Requests & Data Handling
+requests
+gdown
+
+# Deployment (Optional)
+gunicorn
+docker
